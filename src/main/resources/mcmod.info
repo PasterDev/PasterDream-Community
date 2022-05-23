@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "pasterdream",
+    "name": "PasterDream",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Aerolite_Dust",
+      "Tapio"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
